@@ -1,5 +1,5 @@
 # Natural_Language_Processing
-**[Fall 2024]**
+**[Fall 2024]** COMS 4705
 
 ## Overview
 
